@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Sniglet');
 body{
-    background-color: aquamarine;
+    background-color: #f2f2f2;
     margin:0;
 }
 .navbar-name{
     float: left;
-    position: absolute;
+    
     margin-top: 2em;
     margin-bottom: 2em;
     margin-right: 2em;
@@ -13,7 +13,7 @@ body{
 
 .navbar-container{
     background-color: black;
-    position: absolute;
+  
     width: 100%;
 }
 
